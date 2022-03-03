@@ -188,8 +188,9 @@ main {
 }
 
 .weather span {
-  margin-top: 10px;
+  margin-top: 20px;
   display: block;
+  font-size: 20px;
 }
 
 
